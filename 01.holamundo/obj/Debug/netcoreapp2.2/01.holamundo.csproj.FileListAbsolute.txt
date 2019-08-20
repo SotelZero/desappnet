@@ -1,0 +1,11 @@
+C:\proyect\01.holamundo\bin\Debug\netcoreapp2.2\01.holamundo.deps.json
+C:\proyect\01.holamundo\bin\Debug\netcoreapp2.2\01.holamundo.runtimeconfig.json
+C:\proyect\01.holamundo\bin\Debug\netcoreapp2.2\01.holamundo.runtimeconfig.dev.json
+C:\proyect\01.holamundo\bin\Debug\netcoreapp2.2\01.holamundo.dll
+C:\proyect\01.holamundo\bin\Debug\netcoreapp2.2\01.holamundo.pdb
+C:\proyect\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.csprojAssemblyReference.cache
+C:\proyect\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.csproj.CoreCompileInputs.cache
+C:\proyect\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.AssemblyInfoInputs.cache
+C:\proyect\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.AssemblyInfo.cs
+C:\proyect\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.dll
+C:\proyect\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.pdb

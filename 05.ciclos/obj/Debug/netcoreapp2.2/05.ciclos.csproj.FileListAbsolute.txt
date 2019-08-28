@@ -1,0 +1,11 @@
+C:\proyect\05.ciclos\bin\Debug\netcoreapp2.2\05.ciclos.deps.json
+C:\proyect\05.ciclos\bin\Debug\netcoreapp2.2\05.ciclos.runtimeconfig.json
+C:\proyect\05.ciclos\bin\Debug\netcoreapp2.2\05.ciclos.runtimeconfig.dev.json
+C:\proyect\05.ciclos\bin\Debug\netcoreapp2.2\05.ciclos.dll
+C:\proyect\05.ciclos\bin\Debug\netcoreapp2.2\05.ciclos.pdb
+C:\proyect\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.csprojAssemblyReference.cache
+C:\proyect\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.csproj.CoreCompileInputs.cache
+C:\proyect\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.AssemblyInfoInputs.cache
+C:\proyect\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.AssemblyInfo.cs
+C:\proyect\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.dll
+C:\proyect\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.pdb

@@ -1,0 +1,11 @@
+C:\proyect\09.vectoresaleatorios\bin\Debug\netcoreapp2.2\09.vectoresaleatorios.deps.json
+C:\proyect\09.vectoresaleatorios\bin\Debug\netcoreapp2.2\09.vectoresaleatorios.runtimeconfig.json
+C:\proyect\09.vectoresaleatorios\bin\Debug\netcoreapp2.2\09.vectoresaleatorios.runtimeconfig.dev.json
+C:\proyect\09.vectoresaleatorios\bin\Debug\netcoreapp2.2\09.vectoresaleatorios.dll
+C:\proyect\09.vectoresaleatorios\bin\Debug\netcoreapp2.2\09.vectoresaleatorios.pdb
+C:\proyect\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.csprojAssemblyReference.cache
+C:\proyect\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.csproj.CoreCompileInputs.cache
+C:\proyect\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.AssemblyInfoInputs.cache
+C:\proyect\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.AssemblyInfo.cs
+C:\proyect\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.dll
+C:\proyect\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.pdb

@@ -26,6 +26,50 @@ namespace ControlBancario
             Console.WriteLine($"Cuenta 2: {micuenta2.Saldo}");
             Console.WriteLine($"Cuenta 3: {miahorro.Saldo}");
             Console.WriteLine($"Cuenta 4: {micheque.Saldo}");
+            
+            //probar cliente y banco
+
+            Banco MiBanco = new Banco("MeniO's Banc SA de CV");
+
+            Cliente cte1 = new Cliente("Juan Perez");
+            Cliente cte2 = new Cliente("Pedro Isabelo");
+            Cliente cte3 = new Cliente("Carmen de Mairen");
+            Cliente cte4 = new Cliente("Jackie Sieras");
+
+            cte1.AgregarCuenta(new CuentaDeCheques(2000, 1000));
+            cte2.AgregarCuenta(new CuentaDeCheques(1000, 200));
+            cte3.AgregarCuenta(new CuentaDeCheques(900, 100));
+            cte4.AgregarCuenta(new CuentaDeCheques(12000, 1000));
+            cte4.AgregarCuenta(new CuentaDeAhorros(2000,0.3));
+
+            cte1.Cuentas[0].Retira(300);
+            cte3.Cuentas[0].Retira(1200);
+            cte4.Cuentas[1].Retira(1000);
+
+            MiBanco.AgregarCliente(cte1);
+            MiBanco.AgregarCliente(cte2);
+            MiBanco.AgregarCliente(cte3);
+            MiBanco.AgregarCliente(cte4);
+
+            MiBanco.AgregarCliente(new Cliente("Alejandro Telones"));
+            MiBanco.Clientes[4].AgregarCuenta(new CuentaDeCheques(3000,900));
+
+            Console.WriteLine("----- Reporte de Clientes ----- \n");
+            Console.WriteLine($"{MiBanco.Nombre}\n");
+            
+            foreach(Cliente cte in MiBanco.Clientes){
+                Console.WriteLine($"Cliente: {cte.Nombre}");
+                foreach(CuentaBancaria cta in cte.Cuentas){
+                    if(cta is CuentaDeAhorros){
+                        Console.WriteLine($"Cuenta de Ahorros: {cta.Saldo}");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Cuenta de Cheques: {cta.Saldo}");
+                    }
+                    Console.WriteLine("");
+                }
+            }           
         }
     }
 }

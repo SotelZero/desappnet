@@ -1,0 +1,11 @@
+C:\proyect\examen01\obj\Debug\netcoreapp2.2\examen01.csprojAssemblyReference.cache
+C:\proyect\examen01\obj\Debug\netcoreapp2.2\examen01.csproj.CoreCompileInputs.cache
+C:\proyect\examen01\obj\Debug\netcoreapp2.2\examen01.AssemblyInfoInputs.cache
+C:\proyect\examen01\obj\Debug\netcoreapp2.2\examen01.AssemblyInfo.cs
+C:\proyect\examen01\bin\Debug\netcoreapp2.2\examen01.deps.json
+C:\proyect\examen01\bin\Debug\netcoreapp2.2\examen01.runtimeconfig.json
+C:\proyect\examen01\bin\Debug\netcoreapp2.2\examen01.runtimeconfig.dev.json
+C:\proyect\examen01\bin\Debug\netcoreapp2.2\examen01.dll
+C:\proyect\examen01\bin\Debug\netcoreapp2.2\examen01.pdb
+C:\proyect\examen01\obj\Debug\netcoreapp2.2\examen01.dll
+C:\proyect\examen01\obj\Debug\netcoreapp2.2\examen01.pdb

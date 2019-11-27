@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace _03.areatriangulo
 {
@@ -12,15 +12,17 @@ namespace _03.areatriangulo
 
             if(args.Length<2) {
                 Console.WriteLine("Forma de uso \n");
-                Console.WriteLine("<base> <altura> \n");
+                Console.WriteLine("<base> <altura>");
                 Environment.Exit(0);
             }
 
             b = float.Parse(args[0]);
             a = float.Parse(args[1]);
-            
-            area = (b*a)/2;
-            Console.WriteLine($"El triangulo de base {b} y altura {a} tieen un area {area} \n");
+
+            area =  (b*a) /2 ;
+
+            Console.WriteLine($"El triangulo de base {b} y altura {a} tiene una area de {area}");           
+
         }
     }
 }

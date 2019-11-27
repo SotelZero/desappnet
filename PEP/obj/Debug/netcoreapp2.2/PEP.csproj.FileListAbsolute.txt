@@ -1,0 +1,11 @@
+C:\proyectos\PEP\obj\Debug\netcoreapp2.2\PEP.csprojAssemblyReference.cache
+C:\proyectos\PEP\obj\Debug\netcoreapp2.2\PEP.csproj.CoreCompileInputs.cache
+C:\proyectos\PEP\obj\Debug\netcoreapp2.2\PEP.AssemblyInfoInputs.cache
+C:\proyectos\PEP\obj\Debug\netcoreapp2.2\PEP.AssemblyInfo.cs
+C:\proyectos\PEP\bin\Debug\netcoreapp2.2\PEP.deps.json
+C:\proyectos\PEP\bin\Debug\netcoreapp2.2\PEP.runtimeconfig.json
+C:\proyectos\PEP\bin\Debug\netcoreapp2.2\PEP.runtimeconfig.dev.json
+C:\proyectos\PEP\bin\Debug\netcoreapp2.2\PEP.dll
+C:\proyectos\PEP\bin\Debug\netcoreapp2.2\PEP.pdb
+C:\proyectos\PEP\obj\Debug\netcoreapp2.2\PEP.dll
+C:\proyectos\PEP\obj\Debug\netcoreapp2.2\PEP.pdb

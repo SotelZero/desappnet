@@ -10,12 +10,13 @@ namespace _02.areacirculo
 
             Console.Clear();
             Console.WriteLine("Programa que calcula el area de un circulo");
-            Console.WriteLine("Dame el radio");
+            Console.WriteLine("Dame el radio ");
             radio = float.Parse(Console.ReadLine());
 
             area = Math.PI * Math.Pow(radio,2);
 
-            Console.WriteLine($"El area es {area}");
+            Console.Write($" El area es {area}");
+
         }
     }
 }

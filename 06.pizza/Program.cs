@@ -26,6 +26,7 @@ namespace _06.pizza
 
             // Ingredientes
             ing = args[1].Split("+");
+            
             foreach(string i in ing) {
                 if(i=="E") ingredientes+="Extra queso ";
                 else if(i=="C") ingredientes+="Champinones ";

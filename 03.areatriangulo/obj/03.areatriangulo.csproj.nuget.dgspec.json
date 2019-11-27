@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyect\\03.areatriangulo\\03.areatriangulo.csproj": {}
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/03.areatriangulo/03.areatriangulo.csproj": {}
   },
   "projects": {
-    "C:\\proyect\\03.areatriangulo\\03.areatriangulo.csproj": {
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/03.areatriangulo/03.areatriangulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyect\\03.areatriangulo\\03.areatriangulo.csproj",
+        "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/03.areatriangulo/03.areatriangulo.csproj",
         "projectName": "03.areatriangulo",
-        "projectPath": "C:\\proyect\\03.areatriangulo\\03.areatriangulo.csproj",
-        "packagesPath": "C:\\Users\\Manuel\\.nuget\\packages\\",
-        "outputPath": "C:\\proyect\\03.areatriangulo\\obj\\",
+        "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/03.areatriangulo/03.areatriangulo.csproj",
+        "packagesPath": "/Users/castr/.nuget/packages/",
+        "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/03.areatriangulo/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/castr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

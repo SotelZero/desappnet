@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyect\\01.holamundo\\01.holamundo.csproj": {}
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/01.holamundo/01.holamundo.csproj": {}
   },
   "projects": {
-    "C:\\proyect\\01.holamundo\\01.holamundo.csproj": {
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/01.holamundo/01.holamundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyect\\01.holamundo\\01.holamundo.csproj",
+        "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/01.holamundo/01.holamundo.csproj",
         "projectName": "01.holamundo",
-        "projectPath": "C:\\proyect\\01.holamundo\\01.holamundo.csproj",
-        "packagesPath": "C:\\Users\\Manuel\\.nuget\\packages\\",
-        "outputPath": "C:\\proyect\\01.holamundo\\obj\\",
+        "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/01.holamundo/01.holamundo.csproj",
+        "packagesPath": "/Users/castr/.nuget/packages/",
+        "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/01.holamundo/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/castr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

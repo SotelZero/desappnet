@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyect\\02.areacirculo\\02.areacirculo.csproj": {}
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/02.areacirculo.csproj": {}
   },
   "projects": {
-    "C:\\proyect\\02.areacirculo\\02.areacirculo.csproj": {
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/02.areacirculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyect\\02.areacirculo\\02.areacirculo.csproj",
+        "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/02.areacirculo.csproj",
         "projectName": "02.areacirculo",
-        "projectPath": "C:\\proyect\\02.areacirculo\\02.areacirculo.csproj",
-        "packagesPath": "C:\\Users\\Manuel\\.nuget\\packages\\",
-        "outputPath": "C:\\proyect\\02.areacirculo\\obj\\",
+        "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/02.areacirculo.csproj",
+        "packagesPath": "/Users/castr/.nuget/packages/",
+        "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/castr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

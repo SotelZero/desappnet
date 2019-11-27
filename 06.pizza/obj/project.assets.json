@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Manuel\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/castr/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\proyect\\06.pizza\\06.pizza.csproj",
+      "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/06.pizza/06.pizza.csproj",
       "projectName": "06.pizza",
-      "projectPath": "C:\\proyect\\06.pizza\\06.pizza.csproj",
-      "packagesPath": "C:\\Users\\Manuel\\.nuget\\packages\\",
-      "outputPath": "C:\\proyect\\06.pizza\\obj\\",
+      "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/06.pizza/06.pizza.csproj",
+      "packagesPath": "/Users/castr/.nuget/packages/",
+      "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/06.pizza/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/castr/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

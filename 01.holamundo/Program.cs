@@ -8,7 +8,7 @@ namespace _01.holamundo
         {
             Console.Clear();
             Console.WriteLine("Hello World!\n\n");
-            Console.WriteLine("Manuel Sotelo");
+            Console.WriteLine("Carlos Castaneda");
         }
     }
 }

@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Manuel\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/castr/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\proyect\\15.controlbancario\\15.controlbancario.csproj",
+      "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/15.controlbancario.csproj",
       "projectName": "15.controlbancario",
-      "projectPath": "C:\\proyect\\15.controlbancario\\15.controlbancario.csproj",
-      "packagesPath": "C:\\Users\\Manuel\\.nuget\\packages\\",
-      "outputPath": "C:\\proyect\\15.controlbancario\\obj\\",
+      "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/15.controlbancario.csproj",
+      "packagesPath": "/Users/castr/.nuget/packages/",
+      "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/castr/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

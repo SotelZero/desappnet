@@ -1,11 +1,11 @@
-C:\proyect\04.pagatrabajador\obj\Debug\netcoreapp2.2\04.pagatrabajador.csprojAssemblyReference.cache
-C:\proyect\04.pagatrabajador\obj\Debug\netcoreapp2.2\04.pagatrabajador.csproj.CoreCompileInputs.cache
-C:\proyect\04.pagatrabajador\obj\Debug\netcoreapp2.2\04.pagatrabajador.AssemblyInfoInputs.cache
-C:\proyect\04.pagatrabajador\obj\Debug\netcoreapp2.2\04.pagatrabajador.AssemblyInfo.cs
-C:\proyect\04.pagatrabajador\bin\Debug\netcoreapp2.2\04.pagatrabajador.deps.json
-C:\proyect\04.pagatrabajador\bin\Debug\netcoreapp2.2\04.pagatrabajador.runtimeconfig.json
-C:\proyect\04.pagatrabajador\bin\Debug\netcoreapp2.2\04.pagatrabajador.runtimeconfig.dev.json
-C:\proyect\04.pagatrabajador\bin\Debug\netcoreapp2.2\04.pagatrabajador.dll
-C:\proyect\04.pagatrabajador\bin\Debug\netcoreapp2.2\04.pagatrabajador.pdb
-C:\proyect\04.pagatrabajador\obj\Debug\netcoreapp2.2\04.pagatrabajador.dll
-C:\proyect\04.pagatrabajador\obj\Debug\netcoreapp2.2\04.pagatrabajador.pdb
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/04.pagatrabajador/obj/Debug/netcoreapp2.2/04.pagatrabajador.csprojAssemblyReference.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/04.pagatrabajador/obj/Debug/netcoreapp2.2/04.pagatrabajador.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/04.pagatrabajador/obj/Debug/netcoreapp2.2/04.pagatrabajador.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/04.pagatrabajador/obj/Debug/netcoreapp2.2/04.pagatrabajador.AssemblyInfo.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/04.pagatrabajador/bin/Debug/netcoreapp2.2/04.pagatrabajador.deps.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/04.pagatrabajador/bin/Debug/netcoreapp2.2/04.pagatrabajador.runtimeconfig.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/04.pagatrabajador/bin/Debug/netcoreapp2.2/04.pagatrabajador.runtimeconfig.dev.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/04.pagatrabajador/bin/Debug/netcoreapp2.2/04.pagatrabajador.dll
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/04.pagatrabajador/bin/Debug/netcoreapp2.2/04.pagatrabajador.pdb
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/04.pagatrabajador/obj/Debug/netcoreapp2.2/04.pagatrabajador.dll
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/04.pagatrabajador/obj/Debug/netcoreapp2.2/04.pagatrabajador.pdb

@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/09.vectoresaleatorio/obj/Debug/netcoreapp2.2/09.vectoresaleatorio.csprojAssemblyReference.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/09.vectoresaleatorio/obj/Debug/netcoreapp2.2/09.vectoresaleatorio.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/09.vectoresaleatorio/obj/Debug/netcoreapp2.2/09.vectoresaleatorio.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/09.vectoresaleatorio/obj/Debug/netcoreapp2.2/09.vectoresaleatorio.AssemblyInfo.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/09.vectoresaleatorio/bin/Debug/netcoreapp2.2/09.vectoresaleatorio.deps.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/09.vectoresaleatorio/bin/Debug/netcoreapp2.2/09.vectoresaleatorio.runtimeconfig.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/09.vectoresaleatorio/bin/Debug/netcoreapp2.2/09.vectoresaleatorio.runtimeconfig.dev.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/09.vectoresaleatorio/bin/Debug/netcoreapp2.2/09.vectoresaleatorio.dll
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/09.vectoresaleatorio/bin/Debug/netcoreapp2.2/09.vectoresaleatorio.pdb
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/09.vectoresaleatorio/obj/Debug/netcoreapp2.2/09.vectoresaleatorio.dll
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/09.vectoresaleatorio/obj/Debug/netcoreapp2.2/09.vectoresaleatorio.pdb

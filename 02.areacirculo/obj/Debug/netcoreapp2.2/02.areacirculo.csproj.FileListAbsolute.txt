@@ -1,11 +1,11 @@
-C:\proyect\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.deps.json
-C:\proyect\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.runtimeconfig.json
-C:\proyect\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.runtimeconfig.dev.json
-C:\proyect\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.dll
-C:\proyect\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.pdb
-C:\proyect\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.csprojAssemblyReference.cache
-C:\proyect\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.csproj.CoreCompileInputs.cache
-C:\proyect\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.AssemblyInfoInputs.cache
-C:\proyect\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.AssemblyInfo.cs
-C:\proyect\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.dll
-C:\proyect\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.pdb
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/bin/Debug/netcoreapp2.2/02.areacirculo.deps.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/bin/Debug/netcoreapp2.2/02.areacirculo.runtimeconfig.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/bin/Debug/netcoreapp2.2/02.areacirculo.runtimeconfig.dev.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/bin/Debug/netcoreapp2.2/02.areacirculo.dll
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/bin/Debug/netcoreapp2.2/02.areacirculo.pdb
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/obj/Debug/netcoreapp2.2/02.areacirculo.csprojAssemblyReference.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/obj/Debug/netcoreapp2.2/02.areacirculo.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/obj/Debug/netcoreapp2.2/02.areacirculo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/obj/Debug/netcoreapp2.2/02.areacirculo.AssemblyInfo.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/obj/Debug/netcoreapp2.2/02.areacirculo.dll
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/02.areacirculo/obj/Debug/netcoreapp2.2/02.areacirculo.pdb

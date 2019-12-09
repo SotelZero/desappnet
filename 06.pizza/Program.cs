@@ -5,68 +5,69 @@ namespace _06.pizza
     class Program
     {
         static int Main(string[] args)
-        {
-            string tamano="", ingredientes="", cubierta="", para="";
-            string[] ing;
-            char tam, cub, par;
+        {   
+            string t = "", c = "", p = "", ing = "";
+            string[] ings;
 
-            if(args.Length<4) {
-                Console.Clear();
-                Console.WriteLine("Debes especificar como quieres tu pizza \n");
-                Console.WriteLine("<Tamano> <ing1+ing2+...> <Cubierta> <Para>");
-                Menu();
+            if(args.Length < 4){
+                menu();
                 return 1;
             }
 
-            // Tamano
-            tam = char.Parse(args[0]);
-            if(tam=='P') tamano = "Pequeno";
-            else if(tam=='M') tamano="Mediana";
-            else tamano = "Grande";
+            t = args[0];
 
-            // Ingredientes
-            ing = args[1].Split("+");
-            
-            foreach(string i in ing) {
-                if(i=="E") ingredientes+="Extra queso ";
-                else if(i=="C") ingredientes+="Champinones ";
-                else if(i=="P") ingredientes+="Pina ";
+            if(t=="P"){
+                t = "Pequenio ";
+            }
+            else if(t=="M"){
+                t = "Mediana ";
+            }else{
+                t = "Grande ";
             }
 
-            // Cubierta
-            cub = char.Parse(args[2]);
-            if(cub=='D') cubierta = "Delgada";
-            else cubierta = "Gruesa";
+            c = args[2];
 
-            // Para
-            par = char.Parse(args[3]);
-            if(par=='C') para = "Comer Aqui";
-            else para = "Para Llevar";
+            if(c=="D"){
+                c = "Delgada ";
+            }else{
+               c = "Gruesa "; 
+            }
 
-            // Imprima la orden
-            Console.WriteLine("Tu pizza quedo de la siguiente forma \n");
-            Console.WriteLine($"Tamano {tamano}  \n");
-            Console.WriteLine($"Ingredientes {ingredientes}  \n");
-            Console.WriteLine($"Cubierta {cubierta}  \n");
-            Console.WriteLine($"Para {para}  \n");
+            p = args[3];
 
+            if(c=="C"){
+                p = "Comer aqui ";
+            }else{
+               p = "Para llevar "; 
+            }
+            
 
+            ings = args[1].Split(",");
 
-
-
-
+            foreach(string e in ings){
+                if(e == "E"){
+                    ing +="Extra queso, ";
+                }
+                if(e == "C"){
+                    ing +="Champinion, ";
+                }
+                if(e == "PI"){
+                    ing +="Pinia, ";
+                }
+            }
+            Console.WriteLine(t + c + p + ing);
             return 0;
         }
 
-        static void Menu() {
+        static void menu(){
+            Console.Clear();
+            Console.WriteLine("Debes especificar ccomo quieres tu pizza");
+            Console.WriteLine("<Tamanio> <Ingredientes,..., s> <Cubierta> <Para>");
             Console.WriteLine("Menu \n");
-            Console.WriteLine("Tamano: (P)equena, (M)ediana, (G)rande\n");
-            Console.WriteLine("Ingredientes: (E)xtra Queso, (C)hampiñones, (P)ina \n");
-            Console.WriteLine("Cubierta: (D)elgada o (G)ruesa\n");
-            Console.WriteLine("Para: (C)omer aquí o Para (L)levar.\n");
+            Console.WriteLine("Tamanio: (P)equena, (M)ediana, (G)rande  ");
+            Console.WriteLine("Ingredienetes: (E)xtra queso, (C)ampinion, (PI)inia");
+            Console.WriteLine("Cubierta: (D)elgada, (G)ruesa ");
+            Console.WriteLine("Para: (C)omer aqui, (L)levar ");
         }
-
-
-
     }
 }

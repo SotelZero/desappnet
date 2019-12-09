@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/06.pizza/06.pizza.csproj": {}
+    "C:\\Users\\mando\\Documents\\desappnet\\06.pizza\\06.pizza.csproj": {}
   },
   "projects": {
-    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/06.pizza/06.pizza.csproj": {
+    "C:\\Users\\mando\\Documents\\desappnet\\06.pizza\\06.pizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/06.pizza/06.pizza.csproj",
+        "projectUniqueName": "C:\\Users\\mando\\Documents\\desappnet\\06.pizza\\06.pizza.csproj",
         "projectName": "06.pizza",
-        "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/06.pizza/06.pizza.csproj",
-        "packagesPath": "/Users/castr/.nuget/packages/",
-        "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/06.pizza/obj/",
+        "projectPath": "C:\\Users\\mando\\Documents\\desappnet\\06.pizza\\06.pizza.csproj",
+        "packagesPath": "C:\\Users\\mando\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mando\\Documents\\desappnet\\06.pizza\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/castr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

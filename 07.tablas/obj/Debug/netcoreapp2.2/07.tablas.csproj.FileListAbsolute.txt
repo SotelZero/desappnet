@@ -1,0 +1,11 @@
+C:\Users\mando\Documents\desappnet\07.tablas\bin\Debug\netcoreapp2.2\07.tablas.deps.json
+C:\Users\mando\Documents\desappnet\07.tablas\bin\Debug\netcoreapp2.2\07.tablas.runtimeconfig.json
+C:\Users\mando\Documents\desappnet\07.tablas\bin\Debug\netcoreapp2.2\07.tablas.runtimeconfig.dev.json
+C:\Users\mando\Documents\desappnet\07.tablas\bin\Debug\netcoreapp2.2\07.tablas.dll
+C:\Users\mando\Documents\desappnet\07.tablas\bin\Debug\netcoreapp2.2\07.tablas.pdb
+C:\Users\mando\Documents\desappnet\07.tablas\obj\Debug\netcoreapp2.2\07.tablas.csprojAssemblyReference.cache
+C:\Users\mando\Documents\desappnet\07.tablas\obj\Debug\netcoreapp2.2\07.tablas.csproj.CoreCompileInputs.cache
+C:\Users\mando\Documents\desappnet\07.tablas\obj\Debug\netcoreapp2.2\07.tablas.AssemblyInfoInputs.cache
+C:\Users\mando\Documents\desappnet\07.tablas\obj\Debug\netcoreapp2.2\07.tablas.AssemblyInfo.cs
+C:\Users\mando\Documents\desappnet\07.tablas\obj\Debug\netcoreapp2.2\07.tablas.dll
+C:\Users\mando\Documents\desappnet\07.tablas\obj\Debug\netcoreapp2.2\07.tablas.pdb

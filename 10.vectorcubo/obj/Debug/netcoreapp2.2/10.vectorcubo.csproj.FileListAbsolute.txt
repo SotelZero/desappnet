@@ -1,0 +1,11 @@
+C:\Users\mando\Documents\desappnet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.csprojAssemblyReference.cache
+C:\Users\mando\Documents\desappnet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.csproj.CoreCompileInputs.cache
+C:\Users\mando\Documents\desappnet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.AssemblyInfoInputs.cache
+C:\Users\mando\Documents\desappnet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.AssemblyInfo.cs
+C:\Users\mando\Documents\desappnet\10.vectorcubo\bin\Debug\netcoreapp2.2\10.vectorcubo.deps.json
+C:\Users\mando\Documents\desappnet\10.vectorcubo\bin\Debug\netcoreapp2.2\10.vectorcubo.runtimeconfig.json
+C:\Users\mando\Documents\desappnet\10.vectorcubo\bin\Debug\netcoreapp2.2\10.vectorcubo.runtimeconfig.dev.json
+C:\Users\mando\Documents\desappnet\10.vectorcubo\bin\Debug\netcoreapp2.2\10.vectorcubo.dll
+C:\Users\mando\Documents\desappnet\10.vectorcubo\bin\Debug\netcoreapp2.2\10.vectorcubo.pdb
+C:\Users\mando\Documents\desappnet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.dll
+C:\Users\mando\Documents\desappnet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.pdb

@@ -1,0 +1,11 @@
+C:\Users\mando\Documents\desappnet\11.vectorsumas\bin\Debug\netcoreapp2.2\11.vectorsumas.deps.json
+C:\Users\mando\Documents\desappnet\11.vectorsumas\bin\Debug\netcoreapp2.2\11.vectorsumas.runtimeconfig.json
+C:\Users\mando\Documents\desappnet\11.vectorsumas\bin\Debug\netcoreapp2.2\11.vectorsumas.runtimeconfig.dev.json
+C:\Users\mando\Documents\desappnet\11.vectorsumas\bin\Debug\netcoreapp2.2\11.vectorsumas.dll
+C:\Users\mando\Documents\desappnet\11.vectorsumas\bin\Debug\netcoreapp2.2\11.vectorsumas.pdb
+C:\Users\mando\Documents\desappnet\11.vectorsumas\obj\Debug\netcoreapp2.2\11.vectorsumas.csprojAssemblyReference.cache
+C:\Users\mando\Documents\desappnet\11.vectorsumas\obj\Debug\netcoreapp2.2\11.vectorsumas.csproj.CoreCompileInputs.cache
+C:\Users\mando\Documents\desappnet\11.vectorsumas\obj\Debug\netcoreapp2.2\11.vectorsumas.AssemblyInfoInputs.cache
+C:\Users\mando\Documents\desappnet\11.vectorsumas\obj\Debug\netcoreapp2.2\11.vectorsumas.AssemblyInfo.cs
+C:\Users\mando\Documents\desappnet\11.vectorsumas\obj\Debug\netcoreapp2.2\11.vectorsumas.dll
+C:\Users\mando\Documents\desappnet\11.vectorsumas\obj\Debug\netcoreapp2.2\11.vectorsumas.pdb

@@ -1,0 +1,11 @@
+C:\Users\mando\Documents\desappnet\13.vectoresmultiplica\bin\Debug\netcoreapp2.2\13.vectoresmultiplica.deps.json
+C:\Users\mando\Documents\desappnet\13.vectoresmultiplica\bin\Debug\netcoreapp2.2\13.vectoresmultiplica.runtimeconfig.json
+C:\Users\mando\Documents\desappnet\13.vectoresmultiplica\bin\Debug\netcoreapp2.2\13.vectoresmultiplica.runtimeconfig.dev.json
+C:\Users\mando\Documents\desappnet\13.vectoresmultiplica\bin\Debug\netcoreapp2.2\13.vectoresmultiplica.dll
+C:\Users\mando\Documents\desappnet\13.vectoresmultiplica\bin\Debug\netcoreapp2.2\13.vectoresmultiplica.pdb
+C:\Users\mando\Documents\desappnet\13.vectoresmultiplica\obj\Debug\netcoreapp2.2\13.vectoresmultiplica.csprojAssemblyReference.cache
+C:\Users\mando\Documents\desappnet\13.vectoresmultiplica\obj\Debug\netcoreapp2.2\13.vectoresmultiplica.csproj.CoreCompileInputs.cache
+C:\Users\mando\Documents\desappnet\13.vectoresmultiplica\obj\Debug\netcoreapp2.2\13.vectoresmultiplica.AssemblyInfoInputs.cache
+C:\Users\mando\Documents\desappnet\13.vectoresmultiplica\obj\Debug\netcoreapp2.2\13.vectoresmultiplica.AssemblyInfo.cs
+C:\Users\mando\Documents\desappnet\13.vectoresmultiplica\obj\Debug\netcoreapp2.2\13.vectoresmultiplica.dll
+C:\Users\mando\Documents\desappnet\13.vectoresmultiplica\obj\Debug\netcoreapp2.2\13.vectoresmultiplica.pdb

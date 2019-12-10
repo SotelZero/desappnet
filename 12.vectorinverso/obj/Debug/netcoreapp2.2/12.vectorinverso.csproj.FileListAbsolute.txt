@@ -1,0 +1,11 @@
+C:\Users\mando\Documents\desappnet\12.vectorinverso\bin\Debug\netcoreapp2.2\12.vectorinverso.deps.json
+C:\Users\mando\Documents\desappnet\12.vectorinverso\bin\Debug\netcoreapp2.2\12.vectorinverso.runtimeconfig.json
+C:\Users\mando\Documents\desappnet\12.vectorinverso\bin\Debug\netcoreapp2.2\12.vectorinverso.runtimeconfig.dev.json
+C:\Users\mando\Documents\desappnet\12.vectorinverso\bin\Debug\netcoreapp2.2\12.vectorinverso.dll
+C:\Users\mando\Documents\desappnet\12.vectorinverso\bin\Debug\netcoreapp2.2\12.vectorinverso.pdb
+C:\Users\mando\Documents\desappnet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.csprojAssemblyReference.cache
+C:\Users\mando\Documents\desappnet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.csproj.CoreCompileInputs.cache
+C:\Users\mando\Documents\desappnet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.AssemblyInfoInputs.cache
+C:\Users\mando\Documents\desappnet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.AssemblyInfo.cs
+C:\Users\mando\Documents\desappnet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.dll
+C:\Users\mando\Documents\desappnet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.pdb
